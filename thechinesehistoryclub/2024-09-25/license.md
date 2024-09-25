@@ -1,0 +1,5 @@
+#Image origin
+1. [Qinshihuang.png](https://zh.wikipedia.org/zh-tw/file:Qinshihuang.jpg) and the "圖層" layer is public domain
+2. "Guerrero de terracota - Xian - China.png" and the layer is [Guerrero de terracota - Xian - China.JPG](https://zh.wikipedia.org/zh-tw/file:Guerrero_de_terracota_-_Xian_-_China.JPG) modified verison by [Creative Commons Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+3. "Some of the figures are put in a showcase for a closer look (35557414921).png" and the layer is [Some of the figures are put in a showcase for a closer look (35557414921).jpg](https://zh.wikipedia.org/zh-tw/file:Some_of_the_figures_are_put_in_a_showcase_for_a_closer_look_(35557414921).jpg) modified verison by [Creative Commons Attribution-Share Alike 2.0 International](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
+4. [The Great Wall pic 1.jpg](https://zh.wikipedia.org/zh-tw/file:The_Great_Wall_pic_1.jpg) and the modified verison layer (The Great Wall pic 1) by [Creative Commons Attribution-Share Alike 2.0 International](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
